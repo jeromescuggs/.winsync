@@ -1,0 +1,15 @@
+# 
+# scuggscorp inc. credentials file
+# warning! unauthorized viewing of this file is punishable by death!*
+# 
+# *maybe not in the u.s., but we *will* get your ass to singapore one way or the other
+#
+
+#
+# to manually run a credentials helper setup, run
+# $ git config credential.helper store
+# in the repo where you wish to automate the login process.
+
+# git will look for a file at ~/.git-credentials with this format:
+# https://user:pass@example.com
+#
